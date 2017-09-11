@@ -1,4 +1,7 @@
-# -*- coding: utf-8 -*-
+# CSC 221
+# M1T1
+# Michael J. Campbell
+# 11 Sept 2017
 """
 Created on Sun Sep 10 20:21:00 2017
 
